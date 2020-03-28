@@ -1,4 +1,4 @@
-# EN.663.667.01.SP20_COVID_19_Cases_Analytics_Mar_20
+# COVID_19_Cases_Analysis_and_Prediction_Mar_20
 ## Introductory
 A brief summary of your findings and background data (similar to an abstract) that should be approximately 150-250 words
 
