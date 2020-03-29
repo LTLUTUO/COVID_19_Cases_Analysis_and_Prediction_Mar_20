@@ -12,7 +12,9 @@ For quantitative analysis, with the data from Johns Hopkins University, we have 
 #### Qualitative Research
 After that, we carried out qualitative researches, trying to find out two things. First, connect certain countries with seemingly "sudden" outbreak to some major events that happened before. Secondly, connect certain countries where the situations might be better controlled to their approaches to contain the virus. In this way, we can find the trigger of the outbreak, while understanding what could be done in the US to help overcome the outbreak.
 ### Data Visualization
+A typical case of countries being hit hard by COVID-19 is Spain. Below is the chart of Spain's cases and a possible trigger for Spain.
 ![alt text](Chart_of_confirm_cases_by_country/Spain.png)
+The x-axis is representing the days passed by instead of the date to present a more clear idea corresponding to the incubation period of the virus. We can see that the Las Fallas Celebration, one of the most famous celebrations in Spain, happened on the second day of the chart. While Spain government canceled the last day of celebration, there had been a great crowd in Spain. Near 14 days later, the cases in Spain started to spike.
 ### Viable Approach
 Social distancing, quarantine, and self-isolation are all proved to be effective in slowing the spreading process. Extensive testing is also important to contain the virus. Countries like China and South Korea are successful examples of these acts. 
 ### Further Research Possibility
