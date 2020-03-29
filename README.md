@@ -1,9 +1,7 @@
 # COVID_19_Cases_Analysis_and_Prediction_Mar_20
 ## Introductory
-A brief summary of your findings and background data (similar to an abstract) that should be approximately 150-250 words
-
-## Outline of Research
 The spread of the coronavirus was declared as a pandemic, officials at the World Health Organization said on March 11th, 2020. Dr. Tedros said, “Find, isolate, test and treat every case, and trace every contact.” However, on March 11th, what we see in the US is that the government hasn’t taken it seriously. There were 1281 confirmed cases in the US on March 11th. On March 20th , this number has grown to 19100. People started to panic shopping toilet papers, food and water. “COVID 19” has become the most “popular” word recently. We, as a team, wanted to find out what US government did wrong when containing the virus and what US need to do in order to overcome this global pandemic.
+## Outline of Research
 ### Industry Question
 Since Covid-19 has developed to global pandemic, it is clearly that every country in the world are fighting the virus. It is important to learn from other countries’ lessons and see what works best to contain the virus. In our analysis, we looked at the triggers for the virus outbreak and the methods some countries implemented, which were further been proved effective. By doing so, we are trying to find out what US can do to contain COVID-19. But more importantly, we are hoping to find out what could be done by countries and the people within when facing with new pandemic in the future.
 ### Research Methodology
@@ -22,4 +20,4 @@ If we were given more time, we would consider predicting the turning point of th
 ### Apart from COVID-19
 Looking at the growing speed of the confirmed cases, we can’t imagine what will happen if no effective method is in place. Based on our prediction, the number could grow to hundreds of thousands unless the government implement effective methods such as massive testing and isolation. 
 ## Data Source
-Website links to your data source(s)
+* [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
