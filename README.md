@@ -15,6 +15,9 @@ After that, we carried out qualitative researches, trying to find out two things
 A typical case of countries being hit hard by COVID-19 is Spain. Below is the chart of Spain's cases and a possible trigger for Spain.
 ![alt text](Chart_of_confirm_cases_by_country/Spain.png)
 The x-axis is representing the days passed by instead of the date to present a more clear idea corresponding to the incubation period of the virus. We can see that the Las Fallas Celebration, one of the most famous celebrations in Spain, happened on the second day of the chart. While Spain government canceled the last day of celebration, there had been a great crowd in Spain. Near 14 days later, the cases in Spain started to spike.
+A typical case of countries contained the virus effectively in China. Below is the chart of China's cases and the action it takes.
+![alt text](Chart_of_confirm_cases_by_country/China.png)
+As we can see in the chart, China issued a complete lockdown of Wuhan Province on the fifth day of the outbreak (which may correspond to Jan 23th). After that, China postponed the restart of nearly all business after the festival and forced everyone to wear masks. After 14 days of the lockdown, we can see the cases is not rising exponentially any more. Five more days later, the curve was smooth.
 ### Viable Approach
 Social distancing, quarantine, and self-isolation are all proved to be effective in slowing the spreading process. Extensive testing is also important to contain the virus. Countries like China and South Korea are successful examples of these acts. 
 ### Further Research Possibility
